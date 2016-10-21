@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtViewColorRojo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/rojo"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/rojo"
+        android:textColor="@color/negro" />
+
+    <TextView
+        android:id="@+id/txtViewColorNaranja"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/naranja"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/naranja"
+        android:textColor="@color/negro" />
+
+    <TextView
+        android:id="@+id/txtViewColorAmarillo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/amarillo"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/amarillo"
+        android:textColor="@color/negro" />
+
+    <TextView
+        android:id="@+id/txtViewColorVerde"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/verde"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/verde"
+        android:textColor="@color/negro" />
+
+    <TextView
+        android:id="@+id/txtViewColorAzul"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/azul"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/azul"
+        android:textColor="@color/blanco" />
+
+    <TextView
+        android:id="@+id/txtViewColorIndigo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/indigo"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/indigo"
+        android:textColor="@color/blanco" />
+
+    <TextView
+        android:id="@+id/txtViewColorVioleta"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/violeta"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="intercambiarTexto_y_Color"
+        android:text="@string/violeta"
+        android:textColor="@color/negro" />
+
+</LinearLayout>

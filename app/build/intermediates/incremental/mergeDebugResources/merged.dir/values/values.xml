@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amarillo">#ccff00</color>
+    <color name="azul">#0000ff</color>
+    <color name="blanco">#ffffff</color>
+    <color name="indigo">#660099</color>
+    <color name="naranja">#ff6600</color>
+    <color name="negro">#000000</color>
+    <color name="rojo">#ff0000</color>
+    <color name="verde">#00ff00</color>
+    <color name="violeta">#cc66cc</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="amarillo">YELLOW</string>
+    <string name="app_name">Layouts Ejercicio 08</string>
+    <string name="azul">BLUE</string>
+    <string name="indigo">INDIGO</string>
+    <string name="naranja">ORANGE</string>
+    <string name="rojo">RED</string>
+    <string name="verde">GREEN</string>
+    <string name="violeta">VIOLET</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

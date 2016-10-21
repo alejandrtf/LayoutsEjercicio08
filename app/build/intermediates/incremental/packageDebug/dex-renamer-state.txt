@@ -1,0 +1,7 @@
+#Fri Oct 21 10:21:13 CEST 2016
+base.0=C\:\\Users\\Sandra\\AndroidStudioProjects\\LayoutsEjercicio08\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89040c108fb863012ffdcaa0c6a3312844140881
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Sandra\\AndroidStudioProjects\\LayoutsEjercicio08\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3444f36127d8df4a67a60bf42e1abac3f2e7220d\\classes.dex
+base.1=C\:\\Users\\Sandra\\AndroidStudioProjects\\LayoutsEjercicio08\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3444f36127d8df4a67a60bf42e1abac3f2e7220d
+file.0=C\:\\Users\\Sandra\\AndroidStudioProjects\\LayoutsEjercicio08\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_89040c108fb863012ffdcaa0c6a3312844140881\\classes.dex
